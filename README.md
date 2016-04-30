@@ -7,7 +7,7 @@ Based on [jpegoptim 1.4.3](https://github.com/tjko/jpegoptim)
 
 | carbon | cocoa | win32 | win64 |
 |:------:|:-----:|:---------:|:---------:|
-|🆗|🆗|🚫|🚫|
+|🆗|🆗|🆗|🆗|
 
 ##Commands
 
