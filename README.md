@@ -9,14 +9,14 @@ Based on [jpegoptim 1.4.3](https://github.com/tjko/jpegoptim)
 |:------:|:-----:|:---------:|:---------:|
 |🆗|🆗|🚫|🚫|
 
-Commands
----
+##Commands
+
 ```c
 Jpegoptim
 ```
 
-Examples
----
+###Examples
+
 ```
   //read jpeg file
 $path:=Get 4D folder(Current resources folder)+"image.jpg"
@@ -36,5 +36,5 @@ End for
 ```
 
 ##Discussion
----
+
 4D pictures can contain multiple formats. The plugin first searches for .jpeg format. If found, "meta" information is stripped as instructed. If quality is specified, a lossy conversion is applied too.
