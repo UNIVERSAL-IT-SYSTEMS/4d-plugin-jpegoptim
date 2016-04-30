@@ -3,7 +3,19 @@ Reduce size of JPG.
 
 Based on [jpegoptim 1.4.3](https://github.com/tjko/jpegoptim)
 
-Example
+##Platform
+
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|🆗|🆗|🚫|🚫|
+
+Commands
+---
+```c
+Jpegoptim
+```
+
+Examples
 ---
 ```
   //read jpeg file
