@@ -15,7 +15,7 @@ Based on [jpegoptim 1.4.3](https://github.com/tjko/jpegoptim)
 Jpegoptim
 ```
 
-###Examples
+##Examples
 
 ```
   //read jpeg file
