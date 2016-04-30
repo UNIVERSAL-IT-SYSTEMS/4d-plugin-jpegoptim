@@ -34,3 +34,7 @@ $jpeg:=Jpegoptim ($image;$strip;$quality)
 WRITE PICTURE FILE($folderPath+String($quality)+".jpg";$jpeg)
 End for 
 ```
+
+##Discussion
+---
+4D pictures can contain multiple formats. The plugin first searches for .jpeg format. If found, "meta" information is stripped as instructed. If quality is specified, a lossy conversion is applied too.
