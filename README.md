@@ -1,7 +1,9 @@
 # 4d-plugin-jpegoptim
 Reduce size of JPG.
 
-Based on [jpegoptim 1.4.3](https://github.com/tjko/jpegoptim)
+Based on [jpegoptim 1.4.3](https://github.com/tjko/jpegoptim).
+
+Note: You can also change the compression of JPEG with [CONVERT PICTURE](http://doc.4d.com/4Dv15/4D/15.1/CONVERT-PICTURE.301-2686255.en.html). IF the image itself is too large for its frame, you might want to scale, crop or transform it with [TRANSFORM PICTURE](http://doc.4d.com/4Dv15/4D/15.1/TRANSFORM-PICTURE.301-2686256.en.html).
 
 ##Platform
 
